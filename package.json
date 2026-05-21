@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/tomascasas-jpg/Back/issues"
   },
-  "homepage": "https://github.com/tomascasas-jpg/Back#readme"
+  "homepage": "https://github.com/tomascasas-jpg/Back#readme",
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
 }
