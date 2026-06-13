@@ -56,7 +56,7 @@ app.get("/articulos/:id", (req, res) => {
 });
 // POST /articulos → crea un artículo nuevo
 app.post("/articulos", (req, res) => {
-  const { titulo, autor, categoria, descripcion, contenido, fecha } = req.body;
+  const { titulo, subtitulo, autor, categoria, descripcion, contenido, fecha, imagen, imagen2, contenido2, descripcion2 } = req.body;
 
   if (!titulo || !autor || !descripcion) {
     return res.status(400).json({
@@ -66,15 +66,20 @@ app.post("/articulos", (req, res) => {
   const nuevo = {
   id: articulos.length + 1,
   titulo,
+  subtitulo,
   autor,
   categoria: categoria || "Sin categoría",
   descripcion,
   contenido,
   fecha,
+  imagen,
+  imagen2,
+  contenido2,
+  descripcion2,
 };
   articulos.push(nuevo);
   res.status(201).json(nuevo);
-});
+}); 
 // ── 404 ──────────────────────────────────────────────────
 app.use((req, res) => {
   res.status(404).json({ error: "Ruta no encontrada" });
