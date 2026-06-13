@@ -56,7 +56,7 @@ app.get("/articulos/:id", (req, res) => {
 });
 // POST /articulos → crea un artículo nuevo
 app.post("/articulos", (req, res) => {
-  const { titulo, autor, categoria, descripcion } = req.body;
+  const { titulo, autor, categoria, descripcion, contenido, fecha } = req.body;
 
   if (!titulo || !autor || !descripcion) {
     return res.status(400).json({
@@ -64,12 +64,14 @@ app.post("/articulos", (req, res) => {
     });
   }
   const nuevo = {
-    id: articulos.length + 1,
-    titulo,
-    autor,
-    categoria: categoria || "Sin categoría",
-    descripcion,
-  };
+  id: articulos.length + 1,
+  titulo,
+  autor,
+  categoria: categoria || "Sin categoría",
+  descripcion,
+  contenido,
+  fecha,
+};
   articulos.push(nuevo);
   res.status(201).json(nuevo);
 });
