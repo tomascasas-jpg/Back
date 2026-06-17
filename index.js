@@ -14,30 +14,54 @@ const articulos = [
   {
     id: 1,
     titulo: "Titulo del primer artículo",
+    subtitulo: "Subtitulo del primer artículo",
     autor: "Nombre Apellido",
-    categoria: "Categoria",
-    descripcion: "Descripcion breve del artículo.",
+    imagen: "URL de la Imagen",
+    descripcion: "Descripcion de la Imagen.",
+    contenido: "Contenido completo del artículo.",
+    imagen2: "URL de la Imagen",
+    descripcion2: "Descripcion de la Imagen.",
+    contenido2: "Contenido completo del artículo.",
+    fecha: "Fecha de publicación",
   },
   {
     id: 2,
     titulo: "Titulo del segundo artículo",
+    subtitulo: "Subtitulo del segundo artículo",
     autor: "Nombre Apellido",
-    categoria: "Categoria",
-    descripcion: "Descripcion breve del artículo.",
+    imagen: "URL de la Imagen",
+    descripcion: "Descripcion de la Imagen.",
+    contenido: "Contenido completo del artículo.",
+    imagen2: "URL de la Imagen",
+    descripcion2: "Descripcion de la Imagen.",
+    contenido2: "Contenido completo del artículo.",
+    fecha: "Fecha de publicación",
   },
   {
     id: 3,
     titulo: "Titulo del tercer artículo",
+    subtitulo: "Subtitulo del tercer artículo",
     autor: "Nombre Apellido",
-    categoria: "Categoria",
-    descripcion: "Descripcion breve del artículo.",
+    imagen: "URL de la Imagen",
+    descripcion: "Descripcion de la Imagen.",
+    contenido: "Contenido completo del artículo.",
+    imagen2: "URL de la Imagen",
+    descripcion2: "Descripcion de la Imagen.",
+    contenido2: "Contenido completo del artículo.",
+    fecha: "Fecha de publicación",
   },
   {
     id: 4,
     titulo: "Titulo del cuarto artículo",
+    subtitulo: "Subtitulo del cuarto artículo",
     autor: "Nombre Apellido",
-    categoria: "Categoria",
-    descripcion: "Descripcion breve del artículo.",
+    imagen: "URL de la Imagen",
+    descripcion: "Descripcion de la Imagen.",
+    contenido: "Contenido completo del artículo.",
+    imagen2: "URL de la Imagen",
+    descripcion2: "Descripcion de la Imagen.",
+    contenido2: "Contenido completo del artículo.",
+    fecha: "Fecha de publicación",
   },
 ];
 // ── RUTAS ────────────────────────────────────────────────
@@ -56,7 +80,19 @@ app.get("/articulos/:id", (req, res) => {
 });
 // POST /articulos → crea un artículo nuevo
 app.post("/articulos", (req, res) => {
-  const { titulo, subtitulo, autor, categoria, descripcion, contenido, fecha, imagen, imagen2, contenido2, descripcion2 } = req.body;
+  const {
+    titulo,
+    subtitulo,
+    autor,
+    categoria,
+    descripcion,
+    contenido,
+    fecha,
+    imagen,
+    imagen2,
+    contenido2,
+    descripcion2,
+  } = req.body;
 
   if (!titulo || !autor || !descripcion) {
     return res.status(400).json({
@@ -64,22 +100,22 @@ app.post("/articulos", (req, res) => {
     });
   }
   const nuevo = {
-  id: articulos.length + 1,
-  titulo,
-  subtitulo,
-  autor,
-  categoria: categoria || "Sin categoría",
-  descripcion,
-  contenido,
-  fecha,
-  imagen,
-  imagen2,
-  contenido2,
-  descripcion2,
-};
+    id: articulos.length + 1,
+    titulo,
+    subtitulo,
+    autor,
+    categoria: categoria || "Sin categoría",
+    descripcion,
+    contenido,
+    fecha,
+    imagen,
+    imagen2,
+    contenido2,
+    descripcion2,
+  };
   articulos.push(nuevo);
   res.status(201).json(nuevo);
-}); 
+});
 // ── 404 ──────────────────────────────────────────────────
 app.use((req, res) => {
   res.status(404).json({ error: "Ruta no encontrada" });
