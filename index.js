@@ -25,6 +25,7 @@ const articulos = [
     imagenEN: "URL de la Imagen EN",
     descripcionEN: "Descripcion de la Imagen EN",
     contenidoEN: "Contenido completo del artículo EN",
+    bibliografia: "Bibliografía del artículo",
     fecha: "Fecha de publicación",
   },
   {
@@ -40,6 +41,7 @@ const articulos = [
     imagenEN: "URL de la Imagen EN",
     descripcionEN: "Descripcion de la Imagen EN",
     contenidoEN: "Contenido completo del artículo EN",
+    bibliografia: "Bibliografía del artículo",
     fecha: "Fecha de publicación",
   },
   {
@@ -55,6 +57,7 @@ const articulos = [
     imagenEN: "URL de la Imagen EN",
     descripcionEN: "Descripcion de la Imagen EN",
     contenidoEN: "Contenido completo del artículo EN",
+    bibliografia: "Bibliografía del artículo",
     fecha: "Fecha de publicación",
   },
   {
@@ -70,6 +73,7 @@ const articulos = [
     imagenEN: "URL de la Imagen EN",
     descripcionEN: "Descripcion de la Imagen EN",
     contenidoEN: "Contenido completo del artículo EN",
+    bibliografia: "Bibliografía del artículo",
     fecha: "Fecha de publicación",
   },
 ];
@@ -102,6 +106,7 @@ app.post("/articulos", (req, res) => {
     imagenEN,
     contenidoEN,
     descripcionEN,
+    bibliografía,
     fecha,
   } = req.body;
 
@@ -124,6 +129,7 @@ app.post("/articulos", (req, res) => {
     imagenEN,
     contenidoEN,
     descripcionEN,
+    bibliografia,
     fecha,
   };
   articulos.push(nuevo);
