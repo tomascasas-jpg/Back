@@ -14,9 +14,9 @@ app.use(express.json());
 const articulos = [
   {
     id: 1,
-    titulo: "Titulo del primer artículo",
-    subtitulo: "Subtitulo del primer artículo",
-    autor: "Nombre Apellido",
+    titulo: "Unidad Potabilizadora de Agua",
+    subtitulo: "UPA-OSE",
+    autor: "Natalia Sánchez",
     imagen: "URL de la Imagen",
     descripcion: "Descripcion de la Imagen.",
     contenido: "Contenido completo del artículo.",
