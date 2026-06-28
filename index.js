@@ -106,7 +106,7 @@ app.post("/articulos", (req, res) => {
     imagenEN,
     contenidoEN,
     descripcionEN,
-    bibliografía,
+    bibliografia,
     fecha,
   } = req.body;
 
