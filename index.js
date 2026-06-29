@@ -103,7 +103,8 @@ Sociedad Española de Cardiología. (2024). Análisis de seguridad sobre la viab
     titulo: "La Mamografía",
     subtitulo: "La importancia de la detección temprana de cáncer de mama",
     autor: "Victoria Roland",
-    imagen: "",
+    imagen:
+      "https://sanicur.es/wp-content/uploads/2024/10/ecografia-mamaria-mamografia.webp",
     descripcion: "Descripcion de la Imagen.",
     contenido: "",
     tituloEN: "Titulo del artículo EN",
