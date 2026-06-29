@@ -61,7 +61,7 @@ const articulos = [
     id: 4,
     titulo: "La Mamografía",
     subtitulo: "La importancia de la detección temprana de cáncer de mama",
-    autor: "Raúl Leborgne",
+    autor: "Victoria Roland",
     imagen: "URL de la Imagen",
     descripcion: "Descripcion de la Imagen.",
     contenido: "",
