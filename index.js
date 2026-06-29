@@ -33,8 +33,7 @@ const articulos = [
     subtitulo: "El Origen Uruguayo del Marcapasos sin cables",
     autor:
       "                                                                                                                                            Erik Sawchuk",
-    imagen:
-      "https://www.xavierruyra.com/wp-content/uploads/2021/10/Captura-de-pantalla-2021-10-08-a-las-16.32.53-768x269.png",
+    imagen: "",
     descripcion:
       "Ya es posible implantar marcapasos sin cables y sin necesidad de realizar ninguna incisión quirúrgica.",
     contenido: `      El concepto de origen no solo remite al inicio cronológico de un suceso, sino a la raíz de una necesidad humana que despierta el ingenio. En el marco de nuestra revista digital INNURU (Innovación Uruguaya), explorar los inventos nacionales nos obliga a volver a un hito de la medicina global: el desarrollo e implantación del primer marcapasos cardíaco crónicamente exitoso en América Latina. Este logro, gestado en Uruguay en 1960 por los doctores Orestes Fiandra y Roberto Rubio, constituye el nacimiento de la hibridación entre tecnología y biología. Hoy, en el siglo XXI, presenciamos la evolución de aquella semilla inicial a través del marcapasos sin cables, una tecnología milimétrica que revoluciona la medicina y despierta profundas reflexiones sobre la técnica (téchne) y los límites de la vida. Para comprender la magnitud de este dispositivo, es imperativo trazar su genealogía. En 1960, el doctor Fiandra lideró el implante exitoso del primer marcapasos de larga duración en un ser humano. Este origen respondió al paso del mythos al logos: la de la comunidad médica a aceptar un fallo cardíaco como un destino trágico e inevitable. La razón demostró que el ritmo vital podía restaurarse artificialmente, inaugurando el concepto del ser humano simbiótico, aquel que coexiste con la tecnología dentro de su propia biología.                                                                                                                    
@@ -51,7 +50,7 @@ En conclusión, el marcapasos sin cables es el capítulo más reciente de una in
       "Appendix: The Challenge of Extraction and the Multichamber Future of the Leadless Pacemaker",
     subtituloEN: "Subtitulo del artículo EN",
     imagenEN:
-      "https://www.vivirenelche.com/2024/09/30/el-hospital-general-de-elche-implanta-por-primera-vez-un-marcapasos-sin-cables/",
+      "https://i0.wp.com/www.vivirenelche.com/wp-content/uploads/2024/09/Marcapasos-sin-cables-en-el-Hospital-General-de-Elche-3.jpg?resize=777%2C437&ssl=1",
     descripcionEN: "The actual size of the leadless pacemaker",
     contenidoEN: `   Introduction                                                       
                                                                                                                                              
@@ -84,10 +83,11 @@ Sociedad Española de Cardiología. (2024). Análisis de seguridad sobre la viab
   },
   {
     id: 3,
-    titulo: "Titulo del tercer artículo",
-    subtitulo: "Subtitulo del tercer artículo",
-    autor: "Nombre Apellido",
-    imagen: "URL de la Imagen",
+    titulo: "La Vuelta Olimpica",
+    subtitulo: "uruguay algo",
+    autor: "Tomas Casas",
+    imagen:
+      "https://media.elobservador.com.uy/p/9b78fe2df4b9a0ee6bc2e0ac1bd61ede/adjuntos/362/imagenes/100/360/0100360101/1200x675/smart/uruguay-vuelta-sombreroswebp.webp",
     descripcion: "Descripcion de la Imagen.",
     contenido: "Contenido completo del artículo.",
     tituloEN: "Titulo del artículo EN",
