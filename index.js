@@ -14,9 +14,9 @@ app.use(express.json());
 const articulos = [
   {
     id: 1,
-    titulo: "Titulo del primer artículo",
-    subtitulo: "Subtitulo del primer artículo",
-    autor: "Nombre Apellido",
+    titulo: "Unidad Potabilizadora de Agua",
+    subtitulo: "UPA-OSE",
+    autor: "Natalia Sánchez",
     imagen: "URL de la Imagen",
     descripcion: "Descripcion de la Imagen.",
     contenido: "Contenido completo del artículo.",
@@ -25,6 +25,7 @@ const articulos = [
     imagenEN: "URL de la Imagen EN",
     descripcionEN: "Descripcion de la Imagen EN",
     contenidoEN: "Contenido completo del artículo EN",
+    bibliografia: "Bibliografía del artículo",
     fecha: "Fecha de publicación",
   },
   {
@@ -40,6 +41,7 @@ const articulos = [
     imagenEN: "URL de la Imagen EN",
     descripcionEN: "Descripcion de la Imagen EN",
     contenidoEN: "Contenido completo del artículo EN",
+    bibliografia: "Bibliografía del artículo",
     fecha: "Fecha de publicación",
   },
   {
@@ -55,6 +57,7 @@ const articulos = [
     imagenEN: "URL de la Imagen EN",
     descripcionEN: "Descripcion de la Imagen EN",
     contenidoEN: "Contenido completo del artículo EN",
+    bibliografia: "Bibliografía del artículo",
     fecha: "Fecha de publicación",
   },
   {
@@ -70,6 +73,7 @@ const articulos = [
     imagenEN: "URL de la Imagen EN",
     descripcionEN: "Descripcion de la Imagen EN",
     contenidoEN: "Contenido completo del artículo EN",
+    bibliografia: "Bibliografía del artículo",
     fecha: "Fecha de publicación",
   },
 ];
@@ -102,6 +106,7 @@ app.post("/articulos", (req, res) => {
     imagenEN,
     contenidoEN,
     descripcionEN,
+    bibliografia,
     fecha,
   } = req.body;
 
@@ -124,6 +129,7 @@ app.post("/articulos", (req, res) => {
     imagenEN,
     contenidoEN,
     descripcionEN,
+    bibliografia,
     fecha,
   };
   articulos.push(nuevo);
