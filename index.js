@@ -110,7 +110,7 @@ Fiandra, O. (1960). El marcapasos implantable: historia de un hito médico en el
 Knops, R. E., Reddy, V. Y., Ip, J. E., Barr, C., Bennett, M. T., Cantillon, D. J., Dizon, J. M., Houmsse, M., Kusumoto, F. M., Moore, S., Neuzil, P., Schaerf, R. H., Shoda, M., Sperzel, J., Sagi, V., & Garambone, V. (2023). A dual-chamber leadless pacemaker. The New England Journal of Medicine, 388(25), 2360-2370. https://doi.org/10.1056/NEJMoa2300080                                                                                                                              
                                                                                                                                   
 Sociedad Española de Cardiología. (2024). Análisis de seguridad sobre la viabilidad y herramientas de extracción a largo plazo de dispositivos intracardíacos transcatéter. https://secardiologia.es/`,
-    fecha: "02/7/2026",
+    fecha: "02/07/2026",
   },
   {
     id: 3,
@@ -150,7 +150,7 @@ https://nicobatlle.wordpress.com/2012/07/27/uruguayos-campeones-la-vuelta-olimpi
                                                                                                                                    Marcel,J. (2026) Uruguay la vuelta olímpica y su historia, El Gráfico  
 https://www.elgrafico.com.ar/articulo/%C2%A1habla-memoria!/100672/uruguay-la-vuelta-olimpica-y-su-historia
 `,
-    fecha: "02/7/2026",
+    fecha: "02/07/2026",
   },
   {
     id: 4,
@@ -167,7 +167,7 @@ https://www.elgrafico.com.ar/articulo/%C2%A1habla-memoria!/100672/uruguay-la-vue
     descripcionEN: "Descripcion de la Imagen EN",
     contenidoEN: "Contenido completo del artículo EN",
     bibliografia: "Bibliografía del artículo",
-    fecha: "Fecha de publicación",
+    fecha: "02/07/2026",
   },
 ];
 // ── RUTAS ────────────────────────────────────────────────
