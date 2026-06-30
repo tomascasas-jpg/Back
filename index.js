@@ -87,10 +87,12 @@ Sociedad Española de Cardiología. (2024). Análisis de seguridad sobre la viab
     id: 3,
     titulo: "La vuelta olímpica",
     subtitulo: "Uruguay y el gesto que cambió el fútbol para siempre",
-    autor: "                                                                                                                                     Tomas Casas",
+    autor:
+      "                                                                                                                                     Tomas Casas",
     imagen:
       "https://media.elobservador.com.uy/p/9b78fe2df4b9a0ee6bc2e0ac1bd61ede/adjuntos/362/imagenes/100/360/0100360101/1200x675/smart/uruguay-vuelta-sombreroswebp.webp",
-    descripcion: "                                                            Uruguay dando la primer vuelta olimpica",
+    descripcion:
+      "                                                            Uruguay dando la primer vuelta olimpica",
     contenido: `Existe un gesto en el fútbol que se repite en cada rincón del mundo, en cada estadio y en cada categoría, cada vez que alguien gana algo, los jugadores toman la pelota, o la copa, o simplemente sus cuerpos cansados, y dan una vuelta al campo saludando al público que los ovaciona. Se llama “Vuelta Olímpica”. Hoy nadie se detiene a pensar de dónde viene ese ritual. Pero tiene una historia concreta, un lugar de nacimiento, una fecha, y unos protagonistas que la historia casi olvidó.
                                                                                                                                         Todo empezó en París. El 9 de junio de 1924, en el Stade Olympique Yves-du-Manoir de Colombes, Uruguay disputó la final del torneo de fútbol de los Juegos Olímpicos contra Suiza y ganó 3 a 0. La selección celeste había llegado a Europa casi de incógnito. El diario francés Le Temps había escrito antes del torneo: "Nos apena que sean tan torpes estos jóvenes sudamericanos, han venido desde tan lejos y tendrán que volver después del primer partido". Lo que siguió fue exactamente lo opuesto: : Uruguay goleó a Yugoslavia 7-0, venció a Estados Unidos 3-0, a Francia 5-1 y a Países Bajos 2-1, antes de consagrarse campeón olímpico ante más de 40.000 personas.
                                                                                                                                            Al terminar ese partido final, algo ocurrió que nadie había visto antes. Los jugadores uruguayos, encabezados por su capitán José Nasazzi y por José Leandro Andrade, apodado "La Maravilla Negra", caminaron por la pista de atletismo que rodeaba el campo de juego y saludaron al público en las cuatro tribunas. La gente los aclamaba, les tiraba flores y sombreros al campo. Ellos caminaban, saludaban, algunos lloraban. Así nació la vuelta olímpica, aunque todavía no se llamaba así.
@@ -101,8 +103,10 @@ Sociedad Española de Cardiología. (2024). Análisis de seguridad sobre la viab
                                                                                                                                           Cien años después, el gesto que nació en un estadio parisino sigue vivo. Cada vez que un equipo lo hace, sin saberlo, está repitiendo lo que hizo Uruguay en 1924: agradecer, celebrar, y recorrer el espacio donde ocurrió algo grande. Es uno de esos pocos inventos uruguayos que el mundo adoptó sin preguntar de dónde venía. Ya es hora de que se sepa.`,
     tituloEN: "The Kick That Named Itself",
     subtituloEN: "The Origin of the “Olympic Goal",
-    imagenEN: "https://fotos.perfil.com/2021/09/30/trim/987/555/cesario-onzari-20210930-1237600.jpg?webp",
-    descripcionEN: "                              A corner kick like this one, in Buenos Aires, created a new word in football",
+    imagenEN:
+      "https://fotos.perfil.com/2021/09/30/trim/987/555/cesario-onzari-20210930-1237600.jpg?webp",
+    descripcionEN:
+      "                              A corner kick like this one, in Buenos Aires, created a new word in football",
     contenidoEN: `Some words in football are so common that nobody asks where they came from. "Olympic goal" is one of them. Anyone who has watched a match has probably heard a commentator shout it: a goal scored directly from a corner kick, with no other player touching the ball. But that phrase was born on one specific afternoon, in one specific stadium, almost exactly when another football tradition was born too.
                                                                                                                                         The story begins on October 2, 1924, in Buenos Aires. Uruguay had just won the football tournament at the Paris Olympics, becoming the first South American team to win an international title of that scale. On their way home, they stopped in Argentina to play a friendly match. The game had to be postponed from its original date because more than 50,000 fans crowded into a stadium built for 37,000 people. Everyone wanted to see the new champions
                                                                                                                                         During that match, Argentine player Cesáreo Onzari took a corner kick and the ball flew directly into the Uruguayan goal, without touching any other player. Today this would not seem unusual, but in 1924 it was something almost nobody had seen. FIFA had only just changed the rules that same year to allow a goal to be scored straight from a corner. Before that, the ball had to touch another player first. Onzari's goal was one of the earliest examples of the new rule in action, and it happened against the reigning Olympic champions. Journalists covering the match needed a way to describe it, and "Olympic goal" was the name that stuck, linking the goal forever to the Olympic title Uruguay had just won.
@@ -130,8 +134,9 @@ https://www.elgrafico.com.ar/articulo/%C2%A1habla-memoria!/100672/uruguay-la-vue
     contenido: "",
     tituloEN: "Titulo del artículo EN",
     subtituloEN: "Subtitulo del artículo EN",
-    imagenEN: "URL de la Imagen EN",
-    descripcionEN: "Descripcion de la Imagen EN",
+    imagenEN:
+      "https://thumbs.dreamstime.com/b/s%C3%ADmbolo-de-la-muestra-del-rosa-de-la-conciencia-del-c%C3%A1ncer-de-pecho-para-la-enfermedad-de-la-ayuda-69813394.jpg?w=992",
+    descripcionEN: "Pink ribbon for breast cancer awareness.",
     contenidoEN: "Contenido completo del artículo EN",
     bibliografia: "Bibliografía del artículo",
     fecha: "Fecha de publicación",
