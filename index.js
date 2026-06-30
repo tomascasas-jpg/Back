@@ -16,7 +16,8 @@ const articulos = [
     titulo: "Unidad Potabilizadora de Agua",
     subtitulo: "UPA-OSE",
     autor: "Natalia Sánchez",
-    imagen: "https://www.ose.com.uy/media/images/agua_upa_001_1005.jpg?timestamp=20180302141925",
+    imagen:
+      "https://www.ose.com.uy/media/images/agua_upa_001_1005.jpg?timestamp=20180302141925",
     descripcion: "Descripcion de la Imagen.",
     contenido: "Contenido completo del artículo.",
     tituloEN: "Titulo del artículo EN",
@@ -32,8 +33,9 @@ const articulos = [
     titulo: "El latido de la Innovación",
     subtitulo: "El Origen Uruguayo del Marcapasos sin cables",
     autor:
-      "                                                                                                                                            Erik Sawchuk",
-    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawKbASFhas3BJdhNu9L_NDREF0bgAGgu_qA&s",
+      "                                                                                                                                   Erik Sawchuk",
+    imagen:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawKbASFhas3BJdhNu9L_NDREF0bgAGgu_qA&s",
     descripcion:
       "Ya es posible implantar marcapasos sin cables y sin necesidad de realizar ninguna incisión quirúrgica.",
     contenido: `      El concepto de origen no solo remite al inicio cronológico de un suceso, sino a la raíz de una necesidad humana que despierta el ingenio. En el marco de nuestra revista digital INNURU (Innovación Uruguaya), explorar los inventos nacionales nos obliga a volver a un hito de la medicina global: el desarrollo e implantación del primer marcapasos cardíaco crónicamente exitoso en América Latina. Este logro, gestado en Uruguay en 1960 por los doctores Orestes Fiandra y Roberto Rubio, constituye el nacimiento de la hibridación entre tecnología y biología. Hoy, en el siglo XXI, presenciamos la evolución de aquella semilla inicial a través del marcapasos sin cables, una tecnología milimétrica que revoluciona la medicina y despierta profundas reflexiones sobre la técnica (téchne) y los límites de la vida. Para comprender la magnitud de este dispositivo, es imperativo trazar su genealogía. En 1960, el doctor Fiandra lideró el implante exitoso del primer marcapasos de larga duración en un ser humano. Este origen respondió al paso del mythos al logos: la de la comunidad médica a aceptar un fallo cardíaco como un destino trágico e inevitable. La razón demostró que el ritmo vital podía restaurarse artificialmente, inaugurando el concepto del ser humano simbiótico, aquel que coexiste con la tecnología dentro de su propia biología.                                                                                                                    
@@ -48,7 +50,8 @@ En la sociedad actual, la proliferación de estas tecnologías altera profundame
 En conclusión, el marcapasos sin cables es el capítulo más reciente de una innovación con raíz uruguaya. Su análisis en INNURU demuestra que el valor del origen no es un punto estático ni una reliquia histórica, sino un impulso continuo por preservar la vida. Sus dilemas presentes nos recuerdan que cada solución técnica trae consigo nuevas preguntas éticas, confirmando que la ciencia y la filosofía avanzan al mismo ritmo, como un corazón sincronizado que se niega a detenerse ante las limitaciones de la temporalidad biológica.`,
     tituloEN:
       "Appendix: The Challenge of Extraction and the Multichamber Future of the Leadless Pacemaker",
-    subtituloEN: "Subtitulo del artículo EN",
+    subtituloEN:
+      "Innovation in the lifecycle management of implantable cardiac devices",
     imagenEN:
       "https://i0.wp.com/www.vivirenelche.com/wp-content/uploads/2024/09/Marcapasos-sin-cables-en-el-Hospital-General-de-Elche-3.jpg?resize=777%2C437&ssl=1",
     descripcionEN: "The actual size of the leadless pacemaker",
@@ -65,17 +68,17 @@ According to a study published in the Spanish Society of Cardiology, the success
    Wireless Synchronization: The Leap to Two Chambers
                                                                                                                                    
 The major historical limitation of leadless pacemakers was that they could only stimulate a single chamber of the heart (the right ventricle). This made them unsuitable for patients requiring coordinated action between the atrium and ventricle.
-However, the prestigious New England Journal of Medicine (NEJM) documented the success of new dual-chamber, leadless pacemaker systems. These devices consist of two independent capsules (one in the atrium and one in the ventricle) that communicate with each other using low-frequency intracardiac energy pulses, achieving perfect synchronization without a single millimeter of wire.                                                                                                    
+However, the prestigious New England Journal of Medicine (NEJM) documented the success of new dual-chamber, leadless pacemaker systems.   These devices consist of two independent capsules (one in the atrium and one in the ventricle) that communicate with each other using low-frequency intracardiac energy pulses, achieving perfect synchronization without a single millimeter of wire.                                                                                                    
                                                                                                                               
    Conclusion
                                                                                                                                    
 The leadless pacemaker has gone from being an exotic alternative to becoming the standard of cardiac innovation. Resolving the management of its lifecycle and perfecting wireless communication between multiple intra-essential devices not only validates the theories of medical pioneers but also ensures longevity with a lower complication rate for millions of patients worldwide.`,
-    bibliografia: `      Bibliografía                                                              
-                                                                                                                        
+    bibliografia: `      Bibliografía                                       
+                                                                                                                                                                      
     European Society of Cardiology. (2023). Clinical guidelines and consensus on the management of leadless devices at the end of their useful life. European Heart Rhythm Association. https://www.escardio.org/communities/associations/ehra/                                                                                                        
-                                                                                                    
+                                                                                                                                                  
 Fiandra, O. (1960). El marcapasos implantable: historia de un hito médico en el Uruguay. Revista Uruguaya de Cardiología, 15(2), 45-52.                                                                                                        
-                                                                                                              
+                                                                                                                                                               
 Knops, R. E., Reddy, V. Y., Ip, J. E., Barr, C., Bennett, M. T., Cantillon, D. J., Dizon, J. M., Houmsse, M., Kusumoto, F. M., Moore, S., Neuzil, P., Schaerf, R. H., Shoda, M., Sperzel, J., Sagi, V., & Garambone, V. (2023). A dual-chamber leadless pacemaker. The New England Journal of Medicine, 388(25), 2360-2370. https://doi.org/10.1056/NEJMoa2300080                                                                                                                              
                                                                                                                                   
 Sociedad Española de Cardiología. (2024). Análisis de seguridad sobre la viabilidad y herramientas de extracción a largo plazo de dispositivos intracardíacos transcatéter. https://secardiologia.es/`,
