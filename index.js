@@ -32,8 +32,7 @@ const articulos = [
     id: 2,
     titulo: "El latido de la Innovación",
     subtitulo: "El Origen Uruguayo del Marcapasos sin cables",
-    autor:
-      "                                                                                                                                   Erik Sawchuk",
+    autor: "Erik Sawchuk",
     imagen:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawKbASFhas3BJdhNu9L_NDREF0bgAGgu_qA&s",
     descripcion:
