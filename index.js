@@ -85,8 +85,8 @@ Sociedad Española de Cardiología. (2024). Análisis de seguridad sobre la viab
   },
   {
     id: 3,
-    titulo: "                 La vuelta olímpica",
-    subtitulo: "                 Uruguay y el gesto que cambió el fútbol para siempre",
+    titulo: "La vuelta olímpica",
+    subtitulo: "Uruguay y el gesto que cambió el fútbol para siempre",
     autor: "                                                                                                                                     Tomas Casas",
     imagen:
       "https://media.elobservador.com.uy/p/9b78fe2df4b9a0ee6bc2e0ac1bd61ede/adjuntos/362/imagenes/100/360/0100360101/1200x675/smart/uruguay-vuelta-sombreroswebp.webp",
@@ -99,8 +99,8 @@ Sociedad Española de Cardiología. (2024). Análisis de seguridad sobre la viab
                                                                                                                                           Desde entonces, la tradición se extendió primero por toda Sudamérica y luego por el resto del mundo. Hoy la vuelta olímpica es uno de los rituales más universales del deporte, practicado en fútbol, básquetbol, atletismo y cualquier competencia donde haya un campeón y un estadio. Hasta tiene sus variantes: el club uruguayo Defensor Sporting, por ejemplo, tiene la costumbre de dar la vuelta en sentido horario, al revés de la tradición, desde 1976, cuando fue el primer equipo "chico" en ganar el campeonato uruguayo, en un gesto que muchos leyeron también como un desafío silencioso a la dictadura que gobernaba el país en aquel entonces.
                                                                                                                                           Ganar un título olímpico siendo un país tan pequeño no fue un detalle menor, fue el centro de la hazaña. En 1924 ninguna otra selección de América había logrado algo similar. Medirse y ganarle a potencias europeas con muchísimos más recursos no era solo un resultado deportivo: era la prueba de que el talento y el trabajo colectivo podían estar por encima del tamaño del país.
                                                                                                                                           Cien años después, el gesto que nació en un estadio parisino sigue vivo. Cada vez que un equipo lo hace, sin saberlo, está repitiendo lo que hizo Uruguay en 1924: agradecer, celebrar, y recorrer el espacio donde ocurrió algo grande. Es uno de esos pocos inventos uruguayos que el mundo adoptó sin preguntar de dónde venía. Ya es hora de que se sepa.`,
-    tituloEN: "      The Kick That Named Itself",
-    subtituloEN: "                                 The Origin of the “Olympic Goal",
+    tituloEN: "The Kick That Named Itself",
+    subtituloEN: "The Origin of the “Olympic Goal",
     imagenEN: "https://fotos.perfil.com/2021/09/30/trim/987/555/cesario-onzari-20210930-1237600.jpg?webp",
     descripcionEN: "                              A corner kick like this one, in Buenos Aires, created a new word in football",
     contenidoEN: `Some words in football are so common that nobody asks where they came from. "Olympic goal" is one of them. Anyone who has watched a match has probably heard a commentator shout it: a goal scored directly from a corner kick, with no other player touching the ball. But that phrase was born on one specific afternoon, in one specific stadium, almost exactly when another football tradition was born too.
