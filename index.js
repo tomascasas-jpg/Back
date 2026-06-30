@@ -16,7 +16,7 @@ const articulos = [
     titulo: "Unidad Potabilizadora de Agua",
     subtitulo: "UPA-OSE",
     autor: "Natalia Sánchez",
-    imagen: "URL de la Imagen",
+    imagen: "https://www.ose.com.uy/media/images/agua_upa_001_1005.jpg?timestamp=20180302141925",
     descripcion: "Descripcion de la Imagen.",
     contenido: "Contenido completo del artículo.",
     tituloEN: "Titulo del artículo EN",
@@ -33,7 +33,7 @@ const articulos = [
     subtitulo: "El Origen Uruguayo del Marcapasos sin cables",
     autor:
       "                                                                                                                                            Erik Sawchuk",
-    imagen: "",
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawKbASFhas3BJdhNu9L_NDREF0bgAGgu_qA&s",
     descripcion:
       "Ya es posible implantar marcapasos sin cables y sin necesidad de realizar ninguna incisión quirúrgica.",
     contenido: `      El concepto de origen no solo remite al inicio cronológico de un suceso, sino a la raíz de una necesidad humana que despierta el ingenio. En el marco de nuestra revista digital INNURU (Innovación Uruguaya), explorar los inventos nacionales nos obliga a volver a un hito de la medicina global: el desarrollo e implantación del primer marcapasos cardíaco crónicamente exitoso en América Latina. Este logro, gestado en Uruguay en 1960 por los doctores Orestes Fiandra y Roberto Rubio, constituye el nacimiento de la hibridación entre tecnología y biología. Hoy, en el siglo XXI, presenciamos la evolución de aquella semilla inicial a través del marcapasos sin cables, una tecnología milimétrica que revoluciona la medicina y despierta profundas reflexiones sobre la técnica (téchne) y los límites de la vida. Para comprender la magnitud de este dispositivo, es imperativo trazar su genealogía. En 1960, el doctor Fiandra lideró el implante exitoso del primer marcapasos de larga duración en un ser humano. Este origen respondió al paso del mythos al logos: la de la comunidad médica a aceptar un fallo cardíaco como un destino trágico e inevitable. La razón demostró que el ritmo vital podía restaurarse artificialmente, inaugurando el concepto del ser humano simbiótico, aquel que coexiste con la tecnología dentro de su propia biología.                                                                                                                    
