@@ -159,7 +159,8 @@ https://www.elgrafico.com.ar/articulo/%C2%A1habla-memoria!/100672/uruguay-la-vue
     autor: "Victoria Roland",
     imagen:
       "https://sanicur.es/wp-content/uploads/2024/10/ecografia-mamaria-mamografia.webp",
-    descripcion: "Descripcion de la Imagen.",
+    descripcion:
+      " El aparato que comprime el tejido mamario para tomar radiografías de control.",
     contenido: `El Origen (Tecnología)
 En los años 20 del siglo XX, científicos de Europa, Estados Unidos y Japón ya investigaban la radiografía de mama, pero las imágenes eran borrosas por la densidad del tejido. La verdadera revolución ocurrió en Uruguay gracias al Dr. Raúl Leborgne, un eminente médico y radiólogo reconocido como el pionero de la mamografía moderna nacido en Montevideo en 1907, que provenía de una familia unida a la ciencia y que dedicó toda su vida a la investigación en el pereira rossell, fue allí donde instaló el Servicio de Radiología y el Centro de lucha Contra el Cáncer. En estos laboratorios y salas diseñó los conos de compresión para aplanar la mama y analizó las placas hasta identificar las microcalcificaciones. En 1951 y 1953, él describió formalmente un procedimiento médico revolucionario a nivel mundial que consistía en ajustar el haz de rayos X, aplanar el seno de la paciente para comprimir el tejido, tomar imágenes desde múltiples ángulos y usar una película más sensible. Esta innovación técnica uruguaya logró imágenes nítidas por primera vez y sentó las bases para el diseño de todos los mamógrafos modernos del mundo.
 Esta tecnología salva miles de vidas mediante el diagnóstico precoz. Su acceso gratuito es un derecho de salud fundamental. Demuestra el valor de la ciencia para la sociedad.
@@ -180,7 +181,19 @@ El análisis de la mamografía demuestra que la tecnología médica no es solo t
     imagenEN:
       "https://thumbs.dreamstime.com/b/s%C3%ADmbolo-de-la-muestra-del-rosa-de-la-conciencia-del-c%C3%A1ncer-de-pecho-para-la-enfermedad-de-la-ayuda-69813394.jpg?w=992",
     descripcionEN: "Pink ribbon for breast cancer awareness.",
-    contenidoEN: "Contenido completo del artículo EN",
+    contenidoEN: `Introduction:
+Every year, millions of women around the world undergo a medical test called a mammography to detect breast cancer early. This simple procedure is considered one of the most vital healthcare developments of the last century. However, very few people know that the key technique behind this global medical standard was actually born in Montevideo, Uruguay. In the late 1940s, an innovative Uruguayan radiologist named Raúl Leborgne changed the history of medicine by inventing a new way to look inside the human body, proving that small countries can make massive contributions to global science.
+
+The Discovery and Invention:
+Before the 1940s, taking X-ray images of breast tissue was extremely difficult because the images were often blurry and unclear, making it almost impossible to notice tumors. In 1949, while working at the Pereira Rossell Hospital, Dr. Raúl Leborgne came up with a brilliant and practical solution. He designed an apparatus that gently compressed the breast tissue to flatten it during the X-ray. He discovered that by flattening the tissue, the image quality became significantly sharper. This allowed him to identify tiny calcium deposits known as microcalcifications, which are the earliest indicators of breast cancer.Global Impact and EvolutionDr. Leborgne published his revolutionary findings in 1951. His compression technique completely transformed radiology. Medical manufacturers around the world quickly adopted his ideas to build the very first specialized mammogram machines. Decades later, Uruguay continued this pioneering legacy. In 2006, the country became a leader in public health by making mammographies free and mandatory for women within specific age groups to obtain their official health card (carné de salud), drastically reducing mortality rates. Today, his compression method remains a non-negotiable step in every breast examination globally.
+
+Why This Origin Matters:
+Understanding the origin of the mammography matters because it highlights the power of clinical observation and resourcefulness in Latin American medicine. Dr. Leborgne did not have the massive budget of global tech corporations, yet his invention has saved more than 1.6 million lives worldwide. For young Uruguayan students, this story serves as a powerful reminder that impactful, world-changing innovation can happen right here in our local hospitals and universities.
+
+Conclusion: In conclusion, the history of the mammography is deeply tied to Uruguayan ingenuity. From a brilliant idea in a Montevideo hospital to becoming a global healthcare shield, Dr. Raúl Leborgne’s invention stands as a monument to scientific progress. The next time you hear about breast cancer prevention campaigns, remember that a Uruguayan doctor provided the world with the ultimate tool to fight it.
+
+By: Victoria Roland
+,
     bibliografia: "Bibliografía del artículo",
     fecha: "02/07/2026",
   },
