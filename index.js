@@ -160,9 +160,23 @@ https://www.elgrafico.com.ar/articulo/%C2%A1habla-memoria!/100672/uruguay-la-vue
     imagen:
       "https://sanicur.es/wp-content/uploads/2024/10/ecografia-mamaria-mamografia.webp",
     descripcion: "Descripcion de la Imagen.",
-    contenido: "",
-    tituloEN: "Titulo del artículo EN",
-    subtituloEN: "Subtitulo del artículo EN",
+    contenido: `El Origen (Tecnología)
+En los años 20 del siglo XX, científicos de Europa, Estados Unidos y Japón ya investigaban la radiografía de mama, pero las imágenes eran borrosas por la densidad del tejido. La verdadera revolución ocurrió en Uruguay gracias al Dr. Raúl Leborgne, un eminente médico y radiólogo reconocido como el pionero de la mamografía moderna nacido en Montevideo en 1907, que provenía de una familia unida a la ciencia y que dedicó toda su vida a la investigación en el pereira rossell, fue allí donde instaló el Servicio de Radiología y el Centro de lucha Contra el Cáncer. En estos laboratorios y salas diseñó los conos de compresión para aplanar la mama y analizó las placas hasta identificar las microcalcificaciones. En 1951 y 1953, él describió formalmente un procedimiento médico revolucionario a nivel mundial que consistía en ajustar el haz de rayos X, aplanar el seno de la paciente para comprimir el tejido, tomar imágenes desde múltiples ángulos y usar una película más sensible. Esta innovación técnica uruguaya logró imágenes nítidas por primera vez y sentó las bases para el diseño de todos los mamógrafos modernos del mundo.
+Esta tecnología salva miles de vidas mediante el diagnóstico precoz. Su acceso gratuito es un derecho de salud fundamental. Demuestra el valor de la ciencia para la sociedad.
+
+ El Presente en la Sociedad (Reseña)
+La medicina actual cambió muchísimo gracias a la tecnología de imágenes, y la mamografía se consolida hoy como una de las herramientas preventivas y diagnósticas más importantes para la salud pública a nivel mundial. Estas imágenes de rayos X de las mamas sirven fundamentalmente para saber si hay cáncer y observar otros cambios específicos en el tejido mamario. En la actualidad, las pautas médicas dividen la aplicación de este estudio clínico en dos fines bien definidos: la detección de rutina y el diagnóstico avanzado.
+
+Por un lado, la mamografía de rutina o de detección verifica de manera periódica si existen alteraciones en personas que no presentan ningún tipo de signos o síntomas externos. El objetivo central de esta práctica es detectar el cáncer cuando todavía es muy pequeño, permitiendo que el tratamiento posterior pueda ser mucho menos invasivo y agresivo para el paciente. Diversos expertos y organizaciones médicas tienen recomendaciones diferentes en cuanto al momento exacto en que se deben iniciar estos controles y la frecuencia con la que deben repetirse. Sin embargo, en general, los profesionales de atención médica recomiendan que las mujeres con un riesgo promedio comiencen sus exámenes de detección a partir de los 40 años, aconsejando a la mayoría repetir las pruebas cada año. Es una decisión que idealmente se toma junto a un profesional para evaluar factores de riesgo, preferencias y beneficios personales.
+
+Por otro lado, la mamografía de diagnóstico se utiliza con un fin específico para estudiar a fondo cambios sospechosos que ya han sido identificados en las mamas. Este examen avanzado se indica de forma inmediata cuando el paciente o el médico detectan un nuevo bulto, dolor localizado, un cambio evidente en el aspecto de la piel, engrosamiento del pezón o secreción inusual por el mismo. También se utiliza de forma reactiva para analizar en detalle hallazgos preocupantes que hayan surgido de una mamografía de rutina previa. Por esta razón, una mamografía de diagnóstico incluye un mayor número de imágenes de la mama y tomas más específicas en comparación con el examen de rutina estándar. 
+
+Reflexión:
+El análisis de la mamografía demuestra que la tecnología médica no es solo teoría, sino una herramienta que transforma vidas. El verdadero valor de este avance científico se refleja en su impacto social: al permitir detectar el cáncer a tiempo, cambia por completo el destino de miles de personas, convirtiendo una enfermedad antes temida en algo completamente curable. En nuestro país, el acceso gratuito a este estudio a través del carné de salud es un derecho fundamental ganado. El gran desafío de la sociedad actual ya no es técnico, sino garantizar que esta prevención llegue de manera equitativa a todas las personas, sin importar su situación económica o el lugar donde vivan
+"`,
+    tituloEN: "Behind the pink ribbon",
+    subtituloEN:
+      "The life and legacy of the physcian who revolutionized breast screening",
     imagenEN:
       "https://thumbs.dreamstime.com/b/s%C3%ADmbolo-de-la-muestra-del-rosa-de-la-conciencia-del-c%C3%A1ncer-de-pecho-para-la-enfermedad-de-la-ayuda-69813394.jpg?w=992",
     descripcionEN: "Pink ribbon for breast cancer awareness.",
