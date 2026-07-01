@@ -200,6 +200,16 @@ MayoClinic (2025)
 https://www.mayoclinic.org/es/tests-procedures/mammogram/about/pac-20384806 
 
 Registro histórico del libro de Raúl Leborgne (1953): Radiology - RSNA Journals
+
+
+Sources: 1. Hospital Pereira Rossell Medical History Archives - Montevideo, Uruguay.
+
+                2.The History of Radiology and Mammography Development - South American 
+Science Journal.
+
+               3.Ministry of Public Health of Uruguay (MSP) - Breast Cancer Prevention Historic
+Decrees.
+
 `,
     fecha: "02/07/2026",
   },
