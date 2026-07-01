@@ -190,10 +190,9 @@ Before the 1940s, taking X-ray images of breast tissue was extremely difficult b
 Why This Origin Matters:
 Understanding the origin of the mammography matters because it highlights the power of clinical observation and resourcefulness in Latin American medicine. Dr. Leborgne did not have the massive budget of global tech corporations, yet his invention has saved more than 1.6 million lives worldwide. For young Uruguayan students, this story serves as a powerful reminder that impactful, world-changing innovation can happen right here in our local hospitals and universities.
 
-Conclusion: In conclusion, the history of the mammography is deeply tied to Uruguayan ingenuity. From a brilliant idea in a Montevideo hospital to becoming a global healthcare shield, Dr. Raúl Leborgne’s invention stands as a monument to scientific progress. The next time you hear about breast cancer prevention campaigns, remember that a Uruguayan doctor provided the world with the ultimate tool to fight it.
+Conclusion: In conclusion, the history of the mammography is deeply tied to Uruguayan ingenuity. From a brilliant idea in a Montevideo hospital to becoming a global healthcare shield, Dr. Raúl Leborgne’s invention stands as a monument to scientific progress. The next time you hear about breast cancer prevention campaigns, remember that a Uruguayan doctor provided the world with the ultimate tool to fight it.`,
 
-By: Victoria Roland
-,
+    autorEN: "victoria roland",
     bibliografia: "Bibliografía del artículo",
     fecha: "02/07/2026",
   },
