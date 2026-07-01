@@ -193,7 +193,14 @@ Understanding the origin of the mammography matters because it highlights the po
 Conclusion: In conclusion, the history of the mammography is deeply tied to Uruguayan ingenuity. From a brilliant idea in a Montevideo hospital to becoming a global healthcare shield, Dr. Raúl Leborgne’s invention stands as a monument to scientific progress. The next time you hear about breast cancer prevention campaigns, remember that a Uruguayan doctor provided the world with the ultimate tool to fight it.`,
 
     autorEN: "victoria roland",
-    bibliografia: "Bibliografía del artículo",
+    bibliografia: `Libertad Sanitaria Uruguay Sin Carnés (2022)
+https://www.ls.uy/uncategorized/la-mamografia-es-uruguaya/ 
+
+MayoClinic (2025) 
+https://www.mayoclinic.org/es/tests-procedures/mammogram/about/pac-20384806 
+
+Registro histórico del libro de Raúl Leborgne (1953): Radiology - RSNA Journals
+`,
     fecha: "02/07/2026",
   },
 ];
